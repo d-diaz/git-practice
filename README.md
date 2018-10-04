@@ -1,3 +1,3 @@
-I am adding some stuff to my readme.
+# I am adding some stuff to my readme.
 
-This is a repository.
+## This is a repository.
